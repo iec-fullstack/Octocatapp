@@ -1,0 +1,10 @@
+C:\PradeepFelix\prad\Pradeep\Learnings\AzPackageDemo\OctocatApp\bin\Debug\netcoreapp2.1\OctocatApp.deps.json
+C:\PradeepFelix\prad\Pradeep\Learnings\AzPackageDemo\OctocatApp\bin\Debug\netcoreapp2.1\OctocatApp.runtimeconfig.json
+C:\PradeepFelix\prad\Pradeep\Learnings\AzPackageDemo\OctocatApp\bin\Debug\netcoreapp2.1\OctocatApp.runtimeconfig.dev.json
+C:\PradeepFelix\prad\Pradeep\Learnings\AzPackageDemo\OctocatApp\bin\Debug\netcoreapp2.1\OctocatApp.dll
+C:\PradeepFelix\prad\Pradeep\Learnings\AzPackageDemo\OctocatApp\bin\Debug\netcoreapp2.1\OctocatApp.pdb
+C:\PradeepFelix\prad\Pradeep\Learnings\AzPackageDemo\OctocatApp\obj\Debug\netcoreapp2.1\OctocatApp.csproj.CoreCompileInputs.cache
+C:\PradeepFelix\prad\Pradeep\Learnings\AzPackageDemo\OctocatApp\obj\Debug\netcoreapp2.1\OctocatApp.AssemblyInfoInputs.cache
+C:\PradeepFelix\prad\Pradeep\Learnings\AzPackageDemo\OctocatApp\obj\Debug\netcoreapp2.1\OctocatApp.AssemblyInfo.cs
+C:\PradeepFelix\prad\Pradeep\Learnings\AzPackageDemo\OctocatApp\obj\Debug\netcoreapp2.1\OctocatApp.dll
+C:\PradeepFelix\prad\Pradeep\Learnings\AzPackageDemo\OctocatApp\obj\Debug\netcoreapp2.1\OctocatApp.pdb
